@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arindairadi.github.io/sitemap.xml
